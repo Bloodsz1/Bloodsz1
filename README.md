@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello world! I'm Farros 👋
+![Python](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQzajZ0NzNlZG45MnV0cG51b2xlM3h1azFjYmp1Znlmbnh1dmt0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif)
 
 <!--
 **Bloodsz1/Bloodsz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🐍 Currently Learning Python
+
+### 💻 Learning Git & GitHub
+
+### 😎 Exploring AI
+
+![engineer](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5oYmN2d2hrcHZmZWtncXdzdWdhZDFmZjQwc2d5bnBsMW50dGFsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif)
