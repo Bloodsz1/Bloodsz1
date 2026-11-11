@@ -15,4 +15,11 @@
 ### 👇 My Portofolio 👇 
 ### https://farros-portofolio.vercel.app/
 
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Bloodsz1/Bloodsz1/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
