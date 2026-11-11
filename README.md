@@ -5,19 +5,14 @@
 **Bloodsz1/Bloodsz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-[![My Skills](https://skillicons.dev/icons?i=py,git,vscode,instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,git,github,vscode,gmail,instagram,spotify)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
 
-#### 🐍 Currently Learning Python
-#### 💻 Learning Git & GitHub
-#### 😎 Exploring AI
-#### 👇 My Portofolio 👇 
-#### https://farros-portofolio.vercel.app/
-#### MY GitHub Stats
+### 🐍 Currently Learning Python
+### 💻 Learning Git & GitHub
+### 😎 Exploring AI
+### 👇 My Portofolio 👇 
+### https://farros-portofolio.vercel.app/
 
-[![Farros GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bloodsz1&show_icons=true&theme=radical)](https://github.com/Bloodsz1)
 
